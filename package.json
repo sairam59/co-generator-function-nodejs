@@ -1,0 +1,23 @@
+{
+  "name": "co-generator-function-nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sairam59/co-generator-function-nodejs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sairam59/co-generator-function-nodejs/issues"
+  },
+  "homepage": "https://github.com/sairam59/co-generator-function-nodejs#readme",
+  "dependencies": {
+    "co": "^4.6.0"
+  }
+}
